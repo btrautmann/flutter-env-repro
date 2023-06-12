@@ -1,0 +1,6 @@
+{
+  "appTitle": "env_repro",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
